@@ -1,0 +1,7 @@
+Plaque d'immatriculation du client , date et heure d'entree et de sortie puis montant:
+
+
+
+B-12-CD
+BFHK; RBX0007; date et heure entree: 2023-3-5 13:36; date et heure sortie: 2023-3-5 16:36 ; montant: 12
+E5675; LIL0003; date et heure entree: 2023-18-11 15:14; date et heure sortie: 2023-19-11 14:14 ; montant: 92
